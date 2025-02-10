@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there! 👋 I'm Jainendra Mahajan
 
-<!--
-**Jainendra-Mahajan/Jainendra-Mahajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Frontend Developer | React Enthusiast | Tech Explorer
 
-Here are some ideas to get you started:
+I am a **Systems Engineer at TCS** with **2.7 years of experience in SIP/VoIP technology**, transitioning into **Frontend Development**. Passionate about **building interactive UIs**, solving **complex problems**, and learning new **web technologies**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack:
+- **Frontend:** React.js, Redux, JavaScript, HTML, CSS, Tailwind CSS
+- **Tools & Platforms:** Git, GitHub, Firebase, Vite, Webpack
+- **Others:** System Design, Debugging (Wireshark, Logs Analysis)
+
+---
+
+### 📌 Projects:
+#### **Prime GPT 🎬**  
+A **dynamic video streaming platform** where users can watch movie trailers, get AI-powered recommendations, and search across multiple languages.  
+🔗 **[Live Demo](https://prime-gpt-89dc3.web.app/)** | 🛠 **React, Redux, Tailwind, ChatGPT API**  
+
+---
+
+### 📊 GitHub Stats:
+![GitHub Streak](https://streak-stats.demolab.com?user=jainendra-mahajan&theme=react&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jainendra-mahajan&layout=compact&theme=react)
+
+---
+
+### 📫 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jainendra-mahajan-13b962173/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/jainendra-mahajan)  
+
+Let's connect and build something amazing together! 🚀
