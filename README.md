@@ -21,9 +21,7 @@ A **dynamic video streaming platform** where users can watch movie trailers, get
 ---
 
 ### 📊 GitHub Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=jainendra-mahajan&theme=react&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jainendra-mahajan&layout=compact&theme=react)
+![GitHub Streak](https://streak-stats.demolab.com?user=jainendra-mahajan&theme=react&hide_border=true)        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jainendra-mahajan&layout=compact&theme=react)
 
 ---
 
