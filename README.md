@@ -22,7 +22,6 @@ A **dynamic video streaming platform** where users can watch movie trailers, get
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jainendra-mahajan&theme=react&hide_border=true" alt="GitHub Streak" width="50%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainendra-mahajan&layout=compact&theme=react" alt="Top Langs" width="35.5%"/>
 </p>
 
