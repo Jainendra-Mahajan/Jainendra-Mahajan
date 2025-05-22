@@ -2,7 +2,7 @@
 
 ### 🚀 Frontend Developer | React Enthusiast | Tech Explorer
 
-I am a **Systems Engineer at TCS** with **2.7 years of experience in SIP/VoIP technology**, transitioning into **Frontend Development**. Passionate about **building interactive UIs**, solving **complex problems**, and learning new **web technologies**. 
+I am a **Systems Engineer at TCS** with **3 years of experience in SIP/VoIP technology**, transitioning into **Frontend Development**. Passionate about **building interactive UIs**, solving **complex problems**, and learning new **web technologies**. 
 
 ---
 
